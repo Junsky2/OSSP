@@ -1,1 +1,1 @@
-print("2024112213 이준호")
+print('hello world')
